@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="pleasechecknetworkconnection">please check network connection</string>
+    <string name="nodatatoshow">no data to show</string>
+    <string name="brand">brand</string>
+    <string name="isnew">New</string>
+    <string name="isused">Used</string>
+</resources>
